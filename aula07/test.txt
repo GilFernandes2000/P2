@@ -1,0 +1,13 @@
+Escreva um programa FilterLi
+nes que processe um ficheiro de texto e imprima primeiro
+as linh
+as mais longas. Para cumprir o objectivo, o programa poder´a ler e armazenar as
+linhas d
+e texto, divididas em trˆes conjunt
+os distintos, imprimindo-os no fim. Como n˜ao
+se conhece a prior
+i o n´um
+ero de linhas existentes no fic
+heiro, sugere-se a utiliza¸c˜ao de trˆes
+listas para guardar as frases s
+eparadamente. Use para esse efeito a classe LinkedList dopacote p2utils em anexo.
